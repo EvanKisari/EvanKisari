@@ -10,7 +10,7 @@
 I'm a C++ developer, digital artist and animator who loves to ✨*create*✨
 - 🌱 I’m currently learning **Game and Web Development**
 - 🌍 I speak **English** and **Russian**
-- 🎨 Besides programming, I'm also enjoy **drawing**, **2D-animation** and **3D-modeling**
+- 🎨 Besides programming, I also enjoy **drawing**, **2D-animation** and **3D-modeling**
 
 <img alt="silly kittens gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJiMmtyamdjZ2JhZHVyMzY3amVvbjcwbGR5MHR6aHZ1aDNjejFmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58FAyBjWyP00HqPWPH/giphy.gif" width="400"/>
 
