@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About me:
 I'm a C++ developer, digital artist and animator who loves to ✨*create*✨
-- 🌱 I’m currently learning **Game and Web Development**
-- 🌍 I speak **English** and **Russian**
+- 🌱 I’m currently learning **Game Development**
+- 🌍 I speak **English** and **Russian**, and also I'm learning **Italian**
 - 🎨 Besides programming, I also enjoy **drawing**, **2D-animation** and **3D-modeling**
 
 <img alt="silly kittens gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJiMmtyamdjZ2JhZHVyMzY3amVvbjcwbGR5MHR6aHZ1aDNjejFmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58FAyBjWyP00HqPWPH/giphy.gif" width="400"/>
